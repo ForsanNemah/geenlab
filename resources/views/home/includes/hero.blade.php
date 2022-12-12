@@ -5,12 +5,21 @@
 
       <div class="carousel-inner" role="listbox">
 
+
+
+        
+
         <!-- Slide 1 -->
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
           <div class="container">
+
+            <img src="logo.jpg"  width="200px"  hight="150px" class="img-fluid" alt="Responsive image">
             <h2>اهلا بكم في مختبر  <span> جين</span></h2>
+
             <p> نقدم لك افضل مانملك من الخدمات الطبية بأعلى معايير الجودة العالمية .</p>
-            <a href="#about" class="btn-get-started scrollto"> اعرف اكثر </a>
+            <!--
+            <a href="#about" class="btn-get-started scrollto"> عروضنا</a>
+            -->
           </div>
         </div>
 
@@ -19,7 +28,9 @@
           <div class="container">
             <h2>مختبر جين </h2>
             <p>صحتك كنزك  </p>
-            <a href="#about" class="btn-get-started scrollto">اعرف اكثر</a>
+             <!--
+            <a href="#about" class="btn-get-started scrollto"> عروضنا</a>
+            -->
           </div>
         </div>
 
@@ -28,7 +39,9 @@
           <div class="container">
             <h2>شكراً لثقتكم بنا</h2>
             <p> صحة وناسة</p>
-            <a href="#about" class="btn-get-started scrollto">اعرف اكثر</a>
+           <!--
+            <a href="#about" class="btn-get-started scrollto"> عروضنا</a>
+            -->
           </div>
         </div>
 
