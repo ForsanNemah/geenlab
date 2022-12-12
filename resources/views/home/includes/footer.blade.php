@@ -66,7 +66,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/medicio-free-bootstrap-theme/ -->
-      تم البرمجة بواسطة  <a href="https://bootstrapmade.com/">شركة ويندو</a>
+      تم البرمجة بواسطة  <a href="https://wmc-ksa.com/home/">شركة ويندو</a>
       </div>
     </div>
   </footer>

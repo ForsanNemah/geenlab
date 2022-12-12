@@ -3,6 +3,7 @@
 
 
 @include('home.includes.head')
+@include('home.includes.wapp')
 <body>
 
   <!-- ======= Top Bar ======= -->
